@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to lavanda, roxo, lilás);
+    background: #c8a2c8; /* Roxo */
     display: flex;
     justify-content: center;
     align-items: center;
