@@ -26,7 +26,7 @@ input[type="number"] {
 }
 
 button {
-    background-color: #c8a2c8 /* lilás  */
+    background-color: #c8a2c8; /* Roxo */
     color: white;
     padding: 10px 20px;
     border: none;
@@ -38,5 +38,5 @@ button {
 }
 
 button:hover {
-    background-color: #3599f1; /* Verde mais escuro */
+    background-color: #860186; /* Roxo mais escuro  */
 }
